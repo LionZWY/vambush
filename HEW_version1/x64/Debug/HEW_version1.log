@@ -1,0 +1,209 @@
+﻿2018/03/09 5:27:59 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\matohara.fumiya\Desktop\HEW\HEW_version1\HEW_version1.vcxproj" (Rebuild ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt call.cpp camera.cpp checkhit.cpp debugproc.cpp effect.cpp enemy.cpp enemy_bullet.cpp enemy_cursor.cpp enemy_gun.cpp enemy_skillDef.cpp enemy_skillNor.cpp enemy_skillSup.cpp fade.cpp field.cpp game.cpp input.cpp light.cpp main.cpp menu.cpp noize.cpp player.cpp player_bullet.cpp player_cursor.cpp player_gun.cpp player_skillDef.cpp player_skillNor.cpp player_skillSup.cpp result.cpp shadow.cpp sound.cpp timer.cpp title.cpp ui.cpp
+         ui.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\ui.cpp(60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+         title.cpp
+         timer.cpp
+         sound.cpp
+         shadow.cpp
+         result.cpp
+         player_skillSup.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\player_skillsup.cpp(109): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         player_skillNor.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\player_skillnor.cpp(111): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         player_skillDef.cpp
+         player_gun.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\player_gun.cpp(139): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         player_cursor.cpp
+         player_bullet.cpp
+         player.cpp
+         noize.cpp
+         menu.cpp
+         main.cpp
+         light.cpp
+         input.cpp
+         game.cpp
+         field.cpp
+         コードを生成中...
+         コンパイル中...
+         fade.cpp
+         enemy_skillSup.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\enemy_skillsup.cpp(109): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         enemy_skillNor.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\enemy_skillnor.cpp(111): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         enemy_skillDef.cpp
+         enemy_gun.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\enemy_gun.cpp(139): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+         enemy_cursor.cpp
+         enemy_bullet.cpp
+         enemy.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\enemy.cpp(50): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+         effect.cpp
+         debugproc.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(109): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(119): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(129): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(138): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(142): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 'strcat' の宣言を確認してください
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\debugproc.cpp(151): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(90): note: 'strcat' の宣言を確認してください
+         checkhit.cpp
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\checkhit.cpp(144): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\matohara.fumiya\desktop\hew\hew_version1\checkhit.cpp(161): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+         camera.cpp
+         call.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\matohara.fumiya\Desktop\HEW\x64\Debug\HEW_version1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\matohara.fumiya\Desktop\HEW\x64\Debug\HEW_version1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\matohara.fumiya\Desktop\HEW\x64\Debug\HEW_version1.lib" /MACHINE:X64 x64\Debug\call.obj
+         x64\Debug\camera.obj
+         x64\Debug\checkhit.obj
+         x64\Debug\debugproc.obj
+         x64\Debug\effect.obj
+         x64\Debug\enemy.obj
+         x64\Debug\enemy_bullet.obj
+         x64\Debug\enemy_cursor.obj
+         x64\Debug\enemy_gun.obj
+         x64\Debug\enemy_skillDef.obj
+         x64\Debug\enemy_skillNor.obj
+         x64\Debug\enemy_skillSup.obj
+         x64\Debug\fade.obj
+         x64\Debug\field.obj
+         x64\Debug\game.obj
+         x64\Debug\input.obj
+         x64\Debug\light.obj
+         x64\Debug\main.obj
+         x64\Debug\menu.obj
+         x64\Debug\noize.obj
+         x64\Debug\player.obj
+         x64\Debug\player_bullet.obj
+         x64\Debug\player_cursor.obj
+         x64\Debug\player_gun.obj
+         x64\Debug\player_skillDef.obj
+         x64\Debug\player_skillNor.obj
+         x64\Debug\player_skillSup.obj
+         x64\Debug\result.obj
+         x64\Debug\shadow.obj
+         x64\Debug\sound.obj
+         x64\Debug\timer.obj
+         x64\Debug\title.obj
+         x64\Debug\ui.obj
+     1>title.obj : error LNK2019: 未解決の外部シンボル D3DXCreateTextureFromFileA が関数 "public: __cdecl TITLE::TITLE(void)" (??0TITLE@@QEAA@XZ) で参照されました。
+     1>ui.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player_skillSup.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>result.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>timer.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player_bullet.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player_cursor.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player_skillDef.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player_skillNor.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>field.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>menu.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>noize.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy_cursor.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy_skillDef.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy_skillNor.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy_skillSup.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>call.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>enemy_bullet.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+     1>camera.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixLookAtLH が関数 "void __cdecl SetCamera(void)" (?SetCamera@@YAXXZ) で参照されました。
+     1>camera.obj : error LNK2019: 未解決の外部シンボル D3DXMatrixPerspectiveFovLH が関数 "void __cdecl SetCamera(void)" (?SetCamera@@YAXXZ) で参照されました。
+     1>debugproc.obj : error LNK2019: 未解決の外部シンボル D3DXCreateFontA が関数 "long __cdecl InitDebugProc(void)" (?InitDebugProc@@YAJXZ) で参照されました。
+     1>player_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>field.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>noize.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>enemy_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+     1>player_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>noize.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>enemy_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixScaling" は未解決です。
+     1>player_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>field.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>noize.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_skillDef.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_skillNor.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_skillSup.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>effect.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_bullet.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>enemy_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+     1>player.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>player_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>player_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>shadow.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>enemy.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>enemy_cursor.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>enemy_gun.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>field.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+     1>enemy_gun.obj : error LNK2019: 未解決の外部シンボル D3DXLoadMeshFromXA が関数 "long __cdecl InitEnemyGun(void)" (?InitEnemyGun@@YAJXZ) で参照されました。
+     1>player_gun.obj : error LNK2001: 外部シンボル "D3DXLoadMeshFromXA" は未解決です。
+     1>input.obj : error LNK2019: 未解決の外部シンボル DirectInput8Create が関数 "long __cdecl InitInput(struct HINSTANCE__ *,struct HWND__ *)" (?InitInput@@YAJPEAUHINSTANCE__@@PEAUHWND__@@@Z) で参照されました。
+     1>input.obj : error LNK2001: 外部シンボル "IID_IDirectInput8A" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "GUID_SysMouse" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "GUID_SysKeyboard" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIMouse2" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIKeyboard" は未解決です。
+     1>input.obj : error LNK2001: 外部シンボル "c_dfDIJoystick" は未解決です。
+     1>light.obj : error LNK2019: 未解決の外部シンボル D3DXVec3Normalize が関数 "long __cdecl InitLight(void)" (?InitLight@@YAJXZ) で参照されました。
+     1>main.obj : error LNK2019: 未解決の外部シンボル Direct3DCreate9 が関数 "long __cdecl Init(struct HINSTANCE__ *,struct HWND__ *,int)" (?Init@@YAJPEAUHINSTANCE__@@PEAUHWND__@@H@Z) で参照されました。
+     1>sound.obj : error LNK2019: 未解決の外部シンボル DirectSoundCreate8 が関数 "long __cdecl InitSound(struct HWND__ *)" (?InitSound@@YAJPEAUHWND__@@@Z) で参照されました。
+     1>sound.obj : error LNK2001: 外部シンボル "IID_IDirectSoundBuffer8" は未解決です。
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3d9.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\d3dx9.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\dinput8.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\dxguid.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86\dsound.lib : warning LNK4272: ライブラリのコンピューターの種類 'X86' がターゲットのコンピューターの種類' x64' と競合しています
+     1>C:\Users\matohara.fumiya\Desktop\HEW\x64\Debug\HEW_version1.exe : fatal error LNK1120: 20 件の未解決の外部参照
+     1>プロジェクト "C:\Users\matohara.fumiya\Desktop\HEW\HEW_version1\HEW_version1.vcxproj" (Rebuild ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:29.38
